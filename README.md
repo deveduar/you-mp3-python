@@ -1,3 +1,4 @@
+
 # YouTube MP3 Downloader
 
 This script allows you to download audio from YouTube videos in MP3 format at 320kbps using the `yt-dlp` tool and `ffmpeg`. The downloaded files are converted and saved in an `output` folder within the project directory, with the filename corresponding to the video title, while removing invalid characters for file systems.
@@ -19,11 +20,13 @@ cd py-mp3-you
 
 ### 2. Install dependencies
 
-Make sure Python is installed, and then install `yt-dlp`:
+Make sure Python is installed, and then install the required Python packages. You can use the `requirements.txt` file provided:
 
 ```bash
-pip install yt-dlp
+pip install -r requirements.txt
 ```
+
+This will install all necessary dependencies, including `yt-dlp`.
 
 ### 3. Download and install `ffmpeg`
 
@@ -42,6 +45,7 @@ py-mp3-you/
 │       └── ffmpeg.exe         # ffmpeg executable
 ├── output/                   # Folder where the downloaded MP3s will be saved
 ├── script.py                 # Python script for downloading and converting
+├── requirements.txt          # File containing the Python dependencies
 └── README.md                 # This file
 ```
 
