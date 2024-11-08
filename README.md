@@ -71,6 +71,12 @@ https://www.youtube.com/watch?v=abc123, https://www.youtube.com/watch?v=xyz456
 
 If you have suggestions or improvements, feel free to create a pull request or open an issue.
 
+## Disclaimer
+
+This script is intended for educational purposes only. The author does not condone or encourage the downloading of copyrighted material without permission. It is the responsibility of the user to ensure they comply with local laws and the terms of service of YouTube or any other platform they are using the script with.
+
+The author will not be held liable for any misuse of this tool or for any legal consequences that arise from its use.
+
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+MIT License. See the LICENSE file for more details.
