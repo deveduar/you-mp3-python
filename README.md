@@ -13,8 +13,6 @@ links:
   - href: "https://github.com/deveduar/you-mp3-python"
     label: "GitHub Repository"
     svg: "GitHubIcon"
-gallery:
-  - "https://i.postimg.cc/HLT5MH2H/artem-sapegin-b18-TRXc8-UPQ-unsplash.jpg"
 features:
   - "Efficiently download and convert multiple YouTube videos to MP3 at 320kbps."
   - "Sanitize filenames to avoid invalid characters on Windows."
