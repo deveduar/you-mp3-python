@@ -1,3 +1,27 @@
+---
+id: 7
+title: "YouTube MP3 Downloader"
+description: "A Python script to download audio from YouTube videos in MP3 format at 320kbps using yt-dlp and ffmpeg."
+imageSrc: "https://i.postimg.cc/HLT5MH2H/artem-sapegin-b18-TRXc8-UPQ-unsplash.jpg"
+detailedDescription: "This Python script downloads audio from YouTube videos, converts it to MP3 at 320kbps, and saves it in an output folder with sanitized filenames. It uses yt-dlp for downloading and ffmpeg for conversion."
+technologies:
+  - "Python"
+  - "yt-dlp"
+  - "ffmpeg"
+  - "Scripting"
+  - "Automation"
+links:
+  - href: "https://github.com/deveduar/you-mp3-python"
+    label: "GitHub Repository"
+    svg: "GitHubIcon"
+gallery:
+  - "https://i.postimg.cc/HLT5MH2H/artem-sapegin-b18-TRXc8-UPQ-unsplash.jpg"
+features:
+  - "Efficiently download and convert multiple YouTube videos to MP3 at 320kbps."
+  - "Sanitize filenames to avoid invalid characters on Windows."
+  - "Organize MP3 files in the 'output' folder."
+  - "Supports batch download of multiple YouTube URLs."
+---
 
 # YouTube MP3 Downloader
 
