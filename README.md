@@ -1,5 +1,4 @@
 ---
-id: 7
 title: "YouTube MP3 Downloader"
 description: "A Python script to download audio from YouTube videos in MP3 format at 320kbps using yt-dlp and ffmpeg."
 imageSrc: "https://i.postimg.cc/HLT5MH2H/artem-sapegin-b18-TRXc8-UPQ-unsplash.jpg"
